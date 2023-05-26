@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TriviaApiTest" tests="3" skipped="1" failures="0" errors="0" timestamp="2023-05-26T16:00:25" hostname="LAPTOP-H2DS5QR9" time="5.735">
+  <properties/>
+  <testcase name="generateMediumComputerMultipleChoiceTriviaSet()" classname="TriviaApiTest" time="3.254"/>
+  <testcase name="generateEasyCustomSubjectMultipleChoiceTriviaSet()" classname="TriviaApiTest" time="2.479"/>
+  <testcase name="generateHardGeographyTrueFalseTriviaSet()" classname="TriviaApiTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
